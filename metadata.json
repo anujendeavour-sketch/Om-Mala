@@ -1,0 +1,5 @@
+{
+  "name": "Om Mala",
+  "description": "A digital Mala bead counter with 108-bead visualization, round tracking, and AI-powered mantra suggestions.",
+  "requestFramePermissions": []
+}
